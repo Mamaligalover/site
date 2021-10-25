@@ -9,6 +9,7 @@ namespace Variables
             byte number = 2;
             Console.WriteLine(number);
             Console.WriteLine("Prima modificare");
+            Console.WriteLine("Hello!");
         }
     }
 }
